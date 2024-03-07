@@ -9,19 +9,15 @@ WINDOWS:
 
 3)Put in the wanted information about the target
 
-4)Have Fun!!
+4)Your pc's hacked i'm after you your not safe i'm waching you
 
 Linux: (For Ubuntu and Debian based distros)
 
 1)Unzip the file or just download the exe 
 
-2)in most distros you have to install mono-complete 
+2)Locate the exe and type `chmod +x LOIC.exe`
 
-3)Install nload
+3)Simply type `./LOIC.exe`
 
-4)Locate the exe and type `chmod +x LOIC.exe`
-
-5)Simply type `./LOIC.exe`
-
-6)Have Fun!!
+4)Done 👍 
 
